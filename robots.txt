@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sconfore.github.io/sitemap.html.gz
+Sitemap: https://sconfore.github.io/app/sitemap.html.gz
+Sitemap: https://sconfore.github.io/assets/sitemap.html.gz
+Sitemap: https://sconfore.github.io/css/sitemap.html.gz
+Sitemap: https://sconfore.github.io/includes/sitemap.html.gz
+Sitemap: https://sconfore.github.io/item/sitemap.html.gz
+Sitemap: https://sconfore.github.io/src/sitemap.html.gz
